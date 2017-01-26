@@ -1,0 +1,8 @@
+[01/25/2017 10:09 PM] - SUCCESS: login
+[01/25/2017 10:09 PM] - SUCCESS: Authentication request - Username: admin
+[01/25/2017 10:22 PM] - SUCCESS: login
+[01/25/2017 10:22 PM] - SUCCESS: Authentication request - Username: admin
+[01/25/2017 10:24 PM] - SUCCESS: login
+[01/25/2017 10:24 PM] - SUCCESS: Authentication request - Username: admin
+[01/25/2017 10:27 PM] - SUCCESS: login
+[01/25/2017 10:27 PM] - SUCCESS: Authentication request - Username: admin
