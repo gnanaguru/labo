@@ -3547,6 +3547,10 @@ body.woocommerce .page-title { display: inherit; margin-bottom: 20px; padding: 1
 .yoyo {    border: 2px solid gray;  border-radius:15px;}
 .yoyo .widget-title { text-align: center; }
 .yoyo .widget-title span{ font-size: 40px; border: none; }
+<<<<<<< HEAD
 .yoyo .textwidget{ text-align: center; font-size:25px;}
 .page-id-35 .yoyo{ border: none; }
 form div >small{ display: none; }
+=======
+.yoyo .textwidget{ text-align: center; font-size:25px;}
+>>>>>>> 48c7d1fc4048c543b4e98a9413ef5db74e889aa2
